@@ -27,7 +27,7 @@ export const AboutSection = () => {
                         </a>
 
                         <a href="" className="px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300">
-                            Contact
+                            Resume
                         </a>
                     </div>
                 </div>
