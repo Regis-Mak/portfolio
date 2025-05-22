@@ -87,7 +87,7 @@ export const ProjectsSection = () => {
                 target="_blank"
                 href="https://github.com/Regis-Mak"
                 >
-                    Check My Github <ArrowRight size={16}/>
+                    Check Out My Github <ArrowRight size={16}/>
                 </a>
             </div>
         </div>
