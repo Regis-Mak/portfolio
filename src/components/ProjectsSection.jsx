@@ -3,22 +3,21 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
       id: 1,
-      title: "Personal Portfolio Website",
-      description: "The very site you're on! A space to showcase my work, achievements, and ongoing updates as I grow.",
-      image: "/projects/project1.png",
-      tags: ["React", "TailwindCSS", "Javascript", "Vercel"],
-      demoUrl: "https://www.regismak.com",
-      githubUrl: "https://github.com/Regis-Mak/portfolio",
-    },
-
-    {
-      id: 2,
       title: "UCSC Labs DEFCON",
       description: "Currently: Working on an app aimed towards aiding future ITS Technicians, streamlining workflows",
       image: "/projects/project2.png",
       tags: ["React Native", "Python", "Expo Go", "AWS"],
       demoUrl: "www.regismak.com/coming-soon",
       githubUrl: "www.regismak.com/coming-soon",
+    },
+    {
+      id: 2,
+      title: "Personal Portfolio Website",
+      description: "The very site you're on! A space to showcase my work, achievements, and ongoing updates as I grow.",
+      image: "/projects/project1.png",
+      tags: ["React", "TailwindCSS", "Javascript", "Vercel"],
+      demoUrl: "https://www.regismak.com",
+      githubUrl: "https://github.com/Regis-Mak/portfolio",
     },
   ];
 
