@@ -12,7 +12,7 @@ export const NotFound = () => {
         </h1>
   
         <p className="text-lg sm:text-xl max-w-xl animate-[fade-in_0.7s_ease-out_0.3s_forwards]">
-          You’ve ventured into uncharted space. <br />
+          You’ve gone into uncharted space. <br />
           This page doesn’t exist . . . <span className="italic">yet ?</span>
         </p>
   

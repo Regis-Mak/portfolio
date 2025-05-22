@@ -10,7 +10,7 @@ export const AboutSection = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                 <div className="space-y-6">
-                    <h3 className="text-2xl font-semibold">Passionate Web Developer</h3>
+                    <h3 className="text-2xl font-semibold">Tech Enthusiast & Passionate Developer </h3>
                     
                     <p className="text-muted-foreground">
                         asdjkfhslakdjfhsdfljkhasdfasdjkfhslakdjfhsdf
@@ -18,7 +18,7 @@ export const AboutSection = () => {
                     </p>
 
                     <p className="text-muted-foreground">
-                        yerryerererer
+                        - :) -
                     </p>
                     
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -26,7 +26,7 @@ export const AboutSection = () => {
                             Get In Touch
                         </a>
 
-                        <a href="" className="px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300">
+                        <a href="www.regismak.com/coming-soon" className="px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300">
                             Resume
                         </a>
                     </div>
@@ -36,13 +36,27 @@ export const AboutSection = () => {
                     <div className="gradient-border p-6 card-hover">
                         <div className="flex items-start gap-4">
                             <div className="p-3 rounded-full bg-primary/10">
+                                <Briefcase className="h-6 w-6 text-primary"/>
+                            </div>
+
+                            <div className="text-left">
+                                <h4 className="font-semibold text-lg pb-2">UCSC ITS Student Manager</h4>
+                                <p className="text-muted-foreground">
+                                    Current position, responsible for managing consultants
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="gradient-border p-6 card-hover">
+                        <div className="flex items-start gap-4">
+                            <div className="p-3 rounded-full bg-primary/10">
                                 <Code className="h-6 w-6 text-primary"/>
                             </div>
 
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg">Webby</h4>
+                                <h4 className="font-semibold text-lg pb-2">Test</h4>
                                 <p className="text-muted-foreground">
-                                    Awesome sauce huy smells
+                                    -Fill-
                                 </p>
                             </div>
                         </div>
@@ -54,23 +68,9 @@ export const AboutSection = () => {
                             </div>
 
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg">Ui</h4>
+                                <h4 className="font-semibold text-lg pb-2">Test</h4>
                                 <p className="text-muted-foreground">
-                                    Awesome sauce huy smells
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="gradient-border p-6 card-hover">
-                        <div className="flex items-start gap-4">
-                            <div className="p-3 rounded-full bg-primary/10">
-                                <Briefcase className="h-6 w-6 text-primary"/>
-                            </div>
-
-                            <div className="text-left">
-                                <h4 className="font-semibold text-lg">Wy</h4>
-                                <p className="text-muted-foreground">
-                                    Awesome sauce huy smells
+                                    -Fill-
                                 </p>
                             </div>
                         </div>

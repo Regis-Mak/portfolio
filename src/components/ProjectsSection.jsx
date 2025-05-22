@@ -3,32 +3,22 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
       id: 1,
-      title: "SaaS Landing Page",
-      description: "A beautiful landing page app using React and Tailwind.",
+      title: "Personal Portfolio Website",
+      description: "The very site you're on! A space to showcase my work, achievements, and ongoing updates as I grow.",
       image: "/projects/project1.png",
-      tags: ["React", "TailwindCSS", "Supabase"],
-      demoUrl: "#",
-      githubUrl: "#",
+      tags: ["React", "TailwindCSS", "Javascript", "Vercel"],
+      demoUrl: "https://www.regismak.com",
+      githubUrl: "https://github.com/Regis-Mak/portfolio",
     },
+
     {
       id: 2,
-      title: "Orbit Analytics Dashboard",
-      description:
-        "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      title: "UCSC Labs DEFCON",
+      description: "Currently working an app aimed to aid future ITS Technicians",
       image: "/projects/project2.png",
-      tags: ["TypeScript", "D3.js", "Next.js"],
-      demoUrl: "#",
-      githubUrl: "#",
-    },
-    {
-      id: 3,
-      title: "E-commerce Platform",
-      description:
-        "Full-featured e-commerce platform with user authentication and payment processing.",
-      image: "/projects/project3.png",
-      tags: ["React", "Node.js", "Stripe"],
-      demoUrl: "#",
-      githubUrl: "#",
+      tags: ["React Native", "Python", "Expo Go", "AWS"],
+      demoUrl: "www.regismak.com/coming-soon",
+      githubUrl: "www.regismak.com/coming-soon",
     },
   ];
 
@@ -42,7 +32,6 @@ export const ProjectsSection = () => {
 
             <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
                 Here are some recent projects.
-                Some are completed, others are being developed.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

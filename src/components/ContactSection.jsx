@@ -40,7 +40,11 @@ export const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-medium"> Location</h4>
-                  <a className="text-muted-foreground hover:text-primary transition-colors">
+                  <a 
+                  href="https://maps.app.goo.gl/8fwmCUXPkHN8x1nPA"
+                  target="_blank"
+                  className="text-muted-foreground hover:text-primary transition-colors"
+                  >
                     San Francisco Bay Area, CA, USA
                   </a>
                 </div>
@@ -48,14 +52,12 @@ export const ContactSection = () => {
             </div>
 
             <div className="pt-8">
-              <h4 className="font-medium mb-4"> Connect With Me</h4>
+              <h4 className="font-medium mb-4"> Connect With Me !</h4>
               <div className="flex space-x-4 justify-center">
                 <a href="https://www.linkedin.com/in/regismak/" target="_blank">
                   <Linkedin />
                 </a>
-                <a href="#" target="_blank">
-                  <Twitter />
-                </a>
+
                 <a href="https://www.instagram.com/wegisoutside/" target="_blank">
                   <Instagram />
                 </a>
