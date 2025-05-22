@@ -14,7 +14,7 @@ const projects = [
     {
       id: 2,
       title: "UCSC Labs DEFCON",
-      description: "Currently working an app aimed to aid future ITS Technicians",
+      description: "Currently: Working on an app aimed towards aiding future ITS Technicians, streamlining workflows",
       image: "/projects/project2.png",
       tags: ["React Native", "Python", "Expo Go", "AWS"],
       demoUrl: "www.regismak.com/coming-soon",
