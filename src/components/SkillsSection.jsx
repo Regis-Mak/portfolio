@@ -3,24 +3,23 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // Frontend
-  { name: "HTML/CSS", level: 95, category: "frontend" },
-  { name: "JavaScript", level: 90, category: "frontend" },
-  { name: "React", level: 90, category: "frontend" },
-  { name: "TypeScript", level: 85, category: "frontend" },
-  { name: "Tailwind CSS", level: 90, category: "frontend" },
-  { name: "Next.js", level: 80, category: "frontend" },
+  { name: "HTML/CSS", level: 65, category: "frontend" },
+  { name: "JavaScript", level: 64, category: "frontend" },
+  { name: "React", level: 40, category: "frontend" },
+  { name: "React Native", level: 70, category: "frontend" },
+  { name: "Tailwind CSS", level: 25, category: "frontend" },
 
   // Backend
-  { name: "Node.js", level: 80, category: "backend" },
-  { name: "Express", level: 75, category: "backend" },
-  { name: "MongoDB", level: 70, category: "backend" },
-  { name: "PostgreSQL", level: 65, category: "backend" },
-  { name: "GraphQL", level: 60, category: "backend" },
+  { name: "Python", level: 90, category: "backend" },
+  { name: "C", level: 60, category: "backend" },
+  { name: "C++", level: 65, category: "backend" },
+  { name: "Java", level: 50, category: "backend" },
 
   // Tools
-  { name: "Git/GitHub", level: 90, category: "tools" },
-  { name: "Docker", level: 70, category: "tools" },
-  { name: "Figma", level: 85, category: "tools" },
+  { name: "Git / GitHub", level: 90, category: "tools" },
+  { name: "Expo Go", level: 75, category: "tools" },
+  { name: "Docker", level: 50, category: "tools" },
+  { name: "Figma", level: 68, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },
 ];
 
