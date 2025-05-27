@@ -13,12 +13,13 @@ export const AboutSection = () => {
                     <h3 className="text-2xl font-semibold">Tech Enthusiast & Passionate Developer </h3>
                     
                     <p className="text-muted-foreground">
-                        asdjkfhslakdjfhsdfljkhasdfasdjkfhslakdjfhsdf
-                        asdjkfhslakdjfhsdfljkhasdfasdjkfhslakdjfhsdf
+                        I like building things that are helpful, reliable, and thoughtfully made. 
+                        I care about the details; from how code is structured to how users experience it.
                     </p>
 
                     <p className="text-muted-foreground">
-                        - :) -
+                        From custom PC builds, to tinkering with new hardware, I find satisfaction in working hands-on with technology. 
+                        It’s not just about software; it’s about the whole experience, the tools, the design, and the potential.
                     </p>
                     
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -42,12 +43,13 @@ export const AboutSection = () => {
                             <div className="text-left">
                                 <h4 className="font-semibold text-lg pb-2">UCSC ITS Student Manager</h4>
                                 <p className="text-muted-foreground">
-                                    Current position, responsible for managing consultants
+                                    Current position: Managing a team of student consultants at UCSC ITS.
+                                    Focused on operations, support quality, and team development within campus tech services.
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div className="gradient-border p-6 card-hover">
+                    {/* <div className="gradient-border p-6 card-hover">
                         <div className="flex items-start gap-4">
                             <div className="p-3 rounded-full bg-primary/10">
                                 <Code className="h-6 w-6 text-primary"/>
@@ -74,7 +76,7 @@ export const AboutSection = () => {
                                 </p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>
