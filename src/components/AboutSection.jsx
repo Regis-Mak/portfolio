@@ -14,7 +14,7 @@ export const AboutSection = () => {
                     
                     <p className="text-muted-foreground">
                         I like building things that are helpful, reliable, and thoughtfully made. 
-                        I care about the details; from how code is structured to how users experience it.
+                        I care about the details; from how code is structured to how users experience the final product.
                     </p>
 
                     <p className="text-muted-foreground">
