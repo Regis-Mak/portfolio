@@ -4,7 +4,7 @@ const projects = [
     {
       id: 1,
       title: "UCSC Labs DEFCON",
-      description: "Currently: Working on an app aimed towards aiding future ITS Technicians, streamlining workflows",
+      description: "Currently Under Development",
       image: "/projects/project2.png",
       tags: ["React Native", "Python", "Expo Go", "AWS"],
       demoUrl: "www.regismak.com/coming-soon",
@@ -19,6 +19,16 @@ const projects = [
       tags: ["React", "TailwindCSS", "Javascript", "Vercel"],
       demoUrl: "https://www.regismak.com",
       githubUrl: "https://github.com/Regis-Mak/portfolio",
+    },
+
+    {
+      id: 3,
+      title: "Waypoint - Frontend",
+      description: "A collaborative navigation app developed for CSE115A, enabling real-time, synchronized routing for groups of vehicles. Utilzed Agile and SCRUM methodologies throughout development.",
+      image: "/projects/project3.png",
+      tags: ["React Native", "CSS", "Javascript", "Expo Go"],
+      demoUrl: "https://docs.google.com/presentation/d/1LPSNbFKDQxp8KCcibZfpMlPbQtiR8CMxaDo5hvtzZSE/edit?usp=sharing",
+      githubUrl: "https://github.com/khanna-parth/MapsProject?tab=readme-ov-file",
     },
   ];
 

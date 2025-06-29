@@ -12,7 +12,7 @@ const skills = [
   // Backend
   { name: "Python", level: 90, category: "backend" },
   { name: "C", level: 60, category: "backend" },
-  { name: "C++", level: 65, category: "backend" },
+  { name: "C++", level: 60, category: "backend" },
   { name: "Java", level: 50, category: "backend" },
 
   // Tools
@@ -20,8 +20,7 @@ const skills = [
   { name: "Expo Go", level: 75, category: "tools" },
   { name: "Docker", level: 50, category: "tools" },
   { name: "Figma", level: 68, category: "tools" },
-  { name: "VS Code", level: 95, category: "tools" },
-  { name: "Vercel", level: 30, category: "tools" },
+  { name: "Vercel", level: 50, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
