@@ -27,7 +27,7 @@ export const AboutSection = () => {
                             Get In Touch
                         </a>
 
-                        <a target = "_blank" href="https://drive.google.com/file/d/1_VB1p5dIdenuJA_8FVNIKXXTkcpuJzDa/view" className="px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300">
+                        <a target = "_blank" href="https://docs.google.com/document/d/1kjS7HK7kkkdiRdyxWaCNT43Xh8Olhwu7O6OUqoTcSb8/edit?usp=sharing" className="px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300">
                             Resume
                         </a>
                     </div>
